@@ -1,0 +1,16 @@
+{
+  "userName": "厂门口",
+  "uuid": 114512111,
+  "title": "活动主席",
+  "team": "管理员",
+  "teamType": "管理员组",
+  "permission": [
+    "permission-public-manage",
+    "account-public-manage",
+    "assets-public-manage",
+    "company-public-manage",
+    "market-public-manage",
+    "contract-public-manage",
+    "message-public-manage"
+  ]
+}
